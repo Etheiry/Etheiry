@@ -1,7 +1,5 @@
-[![MasterHead](https://m.media-amazon.com/images/M/MV5BNDUwNjBkMmUtZjM2My00NmM4LTlmOWQtNWE5YTdmN2Y2MTgxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg)](https://etheiry.io)
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A passionate software programmer from United States</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etheiry&label=Profile%20views&color=0e75b6&style=flat" alt="etheiry" /> </p>
 
@@ -32,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etheiry&show_icons=true&locale=en&layout=compact" alt="etheiry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etheiry&show_icons=true&locale=en" alt="etheiry" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etheiry&" alt="etheiry" /></p>
