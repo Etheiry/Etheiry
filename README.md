@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">currently interested in software development </h3>
+<h3 align="center">currently interested in software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etheiry&label=Profile%20views&color=0e75b6&style=flat" alt="etheiry" /> </p>
 
 - 🔭 I’m currently working on **Dart bus api**
 
-- 🌱 I’m currently learning **Web Development, Data Structures**
+- 🌱 I’m currently learning **Web Development, Data Structures, assembly**
 
 - 👯 I’m looking to collaborate on [N/A](N/A)
 
